@@ -6,6 +6,16 @@
 
 The project combines **Python, PostgreSQL, SQL, and Power BI** to transform synthetic operational data into management-ready insights.
 
+## 🚀 Live Dashboard
+
+**Streamlit App:** https://opspulse-operational-intelligence.streamlit.app/
+
+**GitHub Repository:**  
+https://github.com/Raj140503/OpsPulse-Operational-Intelligence
+
+---
+
+
 ### Business Questions
 
 - How efficiently is the business operating?
