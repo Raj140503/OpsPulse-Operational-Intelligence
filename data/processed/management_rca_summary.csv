@@ -1,0 +1,5 @@
+issue,finding,business_impact,recommended_action
+Quality Check Bottleneck,Quality Check averages 110.47 min vs 75 min target,Primary operational bottleneck,Optimize Quality Check capacity and workflow
+Employee Experience Gap,Junior employees have the highest delay rate at 69.07%,Higher delays and longer processing time,Increase training/support for junior employees
+Workload Pressure,Extreme workload reaches 76.24% delay rate,Performance deteriorates as workload increases,Balance workload across resources
+Experience × Workload,Junior + Extreme workload reaches 83.82% delay rate,Highest-risk operating segment,Prioritize experienced resources for peak workload

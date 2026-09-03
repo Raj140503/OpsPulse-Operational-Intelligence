@@ -1,0 +1,6 @@
+data/raw/fact_operations.csv
+data/raw/fact_operation_stages.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pbi-lock

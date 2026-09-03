@@ -1,0 +1,501 @@
+product_id,category,subcategory
+PROD_0001,Consumer Goods,Household
+PROD_0002,Home,Decor
+PROD_0003,Home,Decor
+PROD_0004,Healthcare,Medical Devices
+PROD_0005,Industrial,Tools
+PROD_0006,Electronics,Devices
+PROD_0007,Industrial,Equipment
+PROD_0008,Home,Appliances
+PROD_0009,Consumer Goods,Household
+PROD_0010,Electronics,Accessories
+PROD_0011,Electronics,Accessories
+PROD_0012,Consumer Goods,Personal Care
+PROD_0013,Electronics,Accessories
+PROD_0014,Consumer Goods,Household
+PROD_0015,Electronics,Accessories
+PROD_0016,Industrial,Equipment
+PROD_0017,Electronics,Devices
+PROD_0018,Healthcare,Diagnostics
+PROD_0019,Consumer Goods,Food
+PROD_0020,Electronics,Components
+PROD_0021,Consumer Goods,Household
+PROD_0022,Healthcare,Supplies
+PROD_0023,Electronics,Components
+PROD_0024,Electronics,Accessories
+PROD_0025,Healthcare,Medical Devices
+PROD_0026,Healthcare,Diagnostics
+PROD_0027,Healthcare,Medical Devices
+PROD_0028,Consumer Goods,Household
+PROD_0029,Healthcare,Diagnostics
+PROD_0030,Consumer Goods,Personal Care
+PROD_0031,Industrial,Equipment
+PROD_0032,Electronics,Components
+PROD_0033,Electronics,Devices
+PROD_0034,Home,Decor
+PROD_0035,Industrial,Tools
+PROD_0036,Healthcare,Diagnostics
+PROD_0037,Healthcare,Diagnostics
+PROD_0038,Industrial,Equipment
+PROD_0039,Healthcare,Medical Devices
+PROD_0040,Home,Appliances
+PROD_0041,Consumer Goods,Food
+PROD_0042,Electronics,Components
+PROD_0043,Industrial,Machinery
+PROD_0044,Electronics,Devices
+PROD_0045,Consumer Goods,Food
+PROD_0046,Industrial,Machinery
+PROD_0047,Consumer Goods,Household
+PROD_0048,Healthcare,Diagnostics
+PROD_0049,Healthcare,Medical Devices
+PROD_0050,Healthcare,Diagnostics
+PROD_0051,Consumer Goods,Food
+PROD_0052,Consumer Goods,Household
+PROD_0053,Consumer Goods,Personal Care
+PROD_0054,Electronics,Accessories
+PROD_0055,Consumer Goods,Household
+PROD_0056,Healthcare,Supplies
+PROD_0057,Home,Furniture
+PROD_0058,Consumer Goods,Household
+PROD_0059,Home,Decor
+PROD_0060,Healthcare,Supplies
+PROD_0061,Consumer Goods,Household
+PROD_0062,Electronics,Components
+PROD_0063,Electronics,Components
+PROD_0064,Home,Decor
+PROD_0065,Electronics,Devices
+PROD_0066,Electronics,Components
+PROD_0067,Electronics,Accessories
+PROD_0068,Healthcare,Medical Devices
+PROD_0069,Electronics,Accessories
+PROD_0070,Industrial,Tools
+PROD_0071,Consumer Goods,Food
+PROD_0072,Electronics,Devices
+PROD_0073,Electronics,Devices
+PROD_0074,Electronics,Devices
+PROD_0075,Industrial,Equipment
+PROD_0076,Electronics,Accessories
+PROD_0077,Electronics,Devices
+PROD_0078,Consumer Goods,Food
+PROD_0079,Industrial,Machinery
+PROD_0080,Industrial,Machinery
+PROD_0081,Electronics,Devices
+PROD_0082,Industrial,Tools
+PROD_0083,Home,Decor
+PROD_0084,Industrial,Machinery
+PROD_0085,Industrial,Machinery
+PROD_0086,Industrial,Machinery
+PROD_0087,Healthcare,Diagnostics
+PROD_0088,Healthcare,Supplies
+PROD_0089,Healthcare,Supplies
+PROD_0090,Industrial,Tools
+PROD_0091,Home,Appliances
+PROD_0092,Industrial,Machinery
+PROD_0093,Electronics,Components
+PROD_0094,Home,Furniture
+PROD_0095,Healthcare,Diagnostics
+PROD_0096,Consumer Goods,Food
+PROD_0097,Home,Decor
+PROD_0098,Healthcare,Medical Devices
+PROD_0099,Home,Furniture
+PROD_0100,Home,Appliances
+PROD_0101,Industrial,Machinery
+PROD_0102,Electronics,Devices
+PROD_0103,Consumer Goods,Household
+PROD_0104,Healthcare,Medical Devices
+PROD_0105,Home,Appliances
+PROD_0106,Consumer Goods,Food
+PROD_0107,Home,Furniture
+PROD_0108,Electronics,Accessories
+PROD_0109,Consumer Goods,Household
+PROD_0110,Healthcare,Diagnostics
+PROD_0111,Home,Furniture
+PROD_0112,Electronics,Devices
+PROD_0113,Consumer Goods,Household
+PROD_0114,Home,Appliances
+PROD_0115,Home,Furniture
+PROD_0116,Healthcare,Medical Devices
+PROD_0117,Electronics,Accessories
+PROD_0118,Industrial,Machinery
+PROD_0119,Home,Appliances
+PROD_0120,Consumer Goods,Food
+PROD_0121,Healthcare,Supplies
+PROD_0122,Healthcare,Supplies
+PROD_0123,Home,Appliances
+PROD_0124,Home,Decor
+PROD_0125,Home,Appliances
+PROD_0126,Industrial,Equipment
+PROD_0127,Home,Appliances
+PROD_0128,Electronics,Devices
+PROD_0129,Consumer Goods,Household
+PROD_0130,Home,Furniture
+PROD_0131,Industrial,Tools
+PROD_0132,Consumer Goods,Food
+PROD_0133,Healthcare,Medical Devices
+PROD_0134,Home,Appliances
+PROD_0135,Consumer Goods,Personal Care
+PROD_0136,Healthcare,Supplies
+PROD_0137,Industrial,Tools
+PROD_0138,Electronics,Components
+PROD_0139,Home,Furniture
+PROD_0140,Electronics,Accessories
+PROD_0141,Industrial,Machinery
+PROD_0142,Consumer Goods,Household
+PROD_0143,Consumer Goods,Personal Care
+PROD_0144,Industrial,Equipment
+PROD_0145,Industrial,Machinery
+PROD_0146,Home,Furniture
+PROD_0147,Healthcare,Diagnostics
+PROD_0148,Electronics,Accessories
+PROD_0149,Electronics,Accessories
+PROD_0150,Consumer Goods,Food
+PROD_0151,Consumer Goods,Personal Care
+PROD_0152,Home,Furniture
+PROD_0153,Industrial,Tools
+PROD_0154,Electronics,Devices
+PROD_0155,Home,Furniture
+PROD_0156,Consumer Goods,Food
+PROD_0157,Consumer Goods,Household
+PROD_0158,Electronics,Devices
+PROD_0159,Consumer Goods,Personal Care
+PROD_0160,Consumer Goods,Personal Care
+PROD_0161,Healthcare,Medical Devices
+PROD_0162,Industrial,Equipment
+PROD_0163,Consumer Goods,Food
+PROD_0164,Healthcare,Medical Devices
+PROD_0165,Home,Appliances
+PROD_0166,Consumer Goods,Personal Care
+PROD_0167,Home,Decor
+PROD_0168,Consumer Goods,Food
+PROD_0169,Electronics,Components
+PROD_0170,Healthcare,Medical Devices
+PROD_0171,Healthcare,Diagnostics
+PROD_0172,Electronics,Components
+PROD_0173,Industrial,Machinery
+PROD_0174,Healthcare,Medical Devices
+PROD_0175,Home,Appliances
+PROD_0176,Healthcare,Medical Devices
+PROD_0177,Industrial,Tools
+PROD_0178,Home,Decor
+PROD_0179,Home,Decor
+PROD_0180,Electronics,Accessories
+PROD_0181,Consumer Goods,Personal Care
+PROD_0182,Electronics,Devices
+PROD_0183,Consumer Goods,Household
+PROD_0184,Electronics,Accessories
+PROD_0185,Consumer Goods,Household
+PROD_0186,Healthcare,Diagnostics
+PROD_0187,Home,Furniture
+PROD_0188,Consumer Goods,Food
+PROD_0189,Healthcare,Diagnostics
+PROD_0190,Industrial,Machinery
+PROD_0191,Electronics,Components
+PROD_0192,Industrial,Equipment
+PROD_0193,Healthcare,Medical Devices
+PROD_0194,Industrial,Machinery
+PROD_0195,Industrial,Tools
+PROD_0196,Healthcare,Diagnostics
+PROD_0197,Home,Appliances
+PROD_0198,Consumer Goods,Personal Care
+PROD_0199,Electronics,Devices
+PROD_0200,Consumer Goods,Household
+PROD_0201,Electronics,Accessories
+PROD_0202,Consumer Goods,Food
+PROD_0203,Industrial,Equipment
+PROD_0204,Home,Decor
+PROD_0205,Industrial,Tools
+PROD_0206,Home,Furniture
+PROD_0207,Healthcare,Medical Devices
+PROD_0208,Electronics,Components
+PROD_0209,Electronics,Accessories
+PROD_0210,Healthcare,Supplies
+PROD_0211,Consumer Goods,Food
+PROD_0212,Healthcare,Medical Devices
+PROD_0213,Healthcare,Medical Devices
+PROD_0214,Home,Appliances
+PROD_0215,Healthcare,Supplies
+PROD_0216,Electronics,Components
+PROD_0217,Industrial,Equipment
+PROD_0218,Home,Appliances
+PROD_0219,Home,Appliances
+PROD_0220,Consumer Goods,Personal Care
+PROD_0221,Industrial,Tools
+PROD_0222,Home,Decor
+PROD_0223,Healthcare,Medical Devices
+PROD_0224,Home,Decor
+PROD_0225,Home,Decor
+PROD_0226,Home,Furniture
+PROD_0227,Consumer Goods,Household
+PROD_0228,Home,Appliances
+PROD_0229,Home,Decor
+PROD_0230,Consumer Goods,Personal Care
+PROD_0231,Industrial,Machinery
+PROD_0232,Electronics,Devices
+PROD_0233,Consumer Goods,Household
+PROD_0234,Consumer Goods,Food
+PROD_0235,Home,Furniture
+PROD_0236,Home,Appliances
+PROD_0237,Electronics,Devices
+PROD_0238,Home,Appliances
+PROD_0239,Healthcare,Supplies
+PROD_0240,Home,Appliances
+PROD_0241,Home,Furniture
+PROD_0242,Healthcare,Diagnostics
+PROD_0243,Electronics,Components
+PROD_0244,Healthcare,Diagnostics
+PROD_0245,Consumer Goods,Food
+PROD_0246,Healthcare,Medical Devices
+PROD_0247,Industrial,Tools
+PROD_0248,Consumer Goods,Personal Care
+PROD_0249,Home,Appliances
+PROD_0250,Consumer Goods,Personal Care
+PROD_0251,Electronics,Devices
+PROD_0252,Electronics,Devices
+PROD_0253,Healthcare,Supplies
+PROD_0254,Consumer Goods,Household
+PROD_0255,Home,Appliances
+PROD_0256,Electronics,Accessories
+PROD_0257,Home,Furniture
+PROD_0258,Industrial,Machinery
+PROD_0259,Electronics,Components
+PROD_0260,Healthcare,Diagnostics
+PROD_0261,Industrial,Machinery
+PROD_0262,Consumer Goods,Household
+PROD_0263,Home,Decor
+PROD_0264,Electronics,Devices
+PROD_0265,Industrial,Tools
+PROD_0266,Industrial,Equipment
+PROD_0267,Electronics,Devices
+PROD_0268,Consumer Goods,Household
+PROD_0269,Consumer Goods,Household
+PROD_0270,Healthcare,Medical Devices
+PROD_0271,Consumer Goods,Household
+PROD_0272,Healthcare,Diagnostics
+PROD_0273,Industrial,Equipment
+PROD_0274,Electronics,Accessories
+PROD_0275,Consumer Goods,Food
+PROD_0276,Healthcare,Diagnostics
+PROD_0277,Industrial,Machinery
+PROD_0278,Consumer Goods,Household
+PROD_0279,Home,Decor
+PROD_0280,Industrial,Tools
+PROD_0281,Consumer Goods,Food
+PROD_0282,Industrial,Tools
+PROD_0283,Electronics,Components
+PROD_0284,Electronics,Components
+PROD_0285,Electronics,Devices
+PROD_0286,Home,Decor
+PROD_0287,Electronics,Components
+PROD_0288,Home,Appliances
+PROD_0289,Electronics,Accessories
+PROD_0290,Industrial,Tools
+PROD_0291,Consumer Goods,Food
+PROD_0292,Consumer Goods,Food
+PROD_0293,Electronics,Devices
+PROD_0294,Consumer Goods,Personal Care
+PROD_0295,Electronics,Devices
+PROD_0296,Electronics,Accessories
+PROD_0297,Healthcare,Supplies
+PROD_0298,Healthcare,Supplies
+PROD_0299,Healthcare,Medical Devices
+PROD_0300,Home,Appliances
+PROD_0301,Healthcare,Medical Devices
+PROD_0302,Electronics,Accessories
+PROD_0303,Industrial,Equipment
+PROD_0304,Healthcare,Medical Devices
+PROD_0305,Healthcare,Diagnostics
+PROD_0306,Industrial,Machinery
+PROD_0307,Electronics,Accessories
+PROD_0308,Home,Appliances
+PROD_0309,Healthcare,Diagnostics
+PROD_0310,Industrial,Tools
+PROD_0311,Electronics,Devices
+PROD_0312,Consumer Goods,Food
+PROD_0313,Home,Appliances
+PROD_0314,Industrial,Machinery
+PROD_0315,Industrial,Equipment
+PROD_0316,Industrial,Equipment
+PROD_0317,Healthcare,Supplies
+PROD_0318,Consumer Goods,Personal Care
+PROD_0319,Home,Decor
+PROD_0320,Electronics,Components
+PROD_0321,Electronics,Accessories
+PROD_0322,Consumer Goods,Personal Care
+PROD_0323,Industrial,Equipment
+PROD_0324,Industrial,Tools
+PROD_0325,Industrial,Tools
+PROD_0326,Industrial,Tools
+PROD_0327,Industrial,Tools
+PROD_0328,Consumer Goods,Household
+PROD_0329,Healthcare,Medical Devices
+PROD_0330,Home,Appliances
+PROD_0331,Industrial,Tools
+PROD_0332,Healthcare,Diagnostics
+PROD_0333,Electronics,Accessories
+PROD_0334,Consumer Goods,Food
+PROD_0335,Healthcare,Medical Devices
+PROD_0336,Industrial,Tools
+PROD_0337,Industrial,Equipment
+PROD_0338,Industrial,Machinery
+PROD_0339,Healthcare,Diagnostics
+PROD_0340,Industrial,Machinery
+PROD_0341,Healthcare,Medical Devices
+PROD_0342,Industrial,Tools
+PROD_0343,Electronics,Accessories
+PROD_0344,Electronics,Accessories
+PROD_0345,Home,Decor
+PROD_0346,Industrial,Tools
+PROD_0347,Industrial,Tools
+PROD_0348,Healthcare,Medical Devices
+PROD_0349,Healthcare,Supplies
+PROD_0350,Industrial,Tools
+PROD_0351,Home,Appliances
+PROD_0352,Industrial,Tools
+PROD_0353,Healthcare,Medical Devices
+PROD_0354,Industrial,Tools
+PROD_0355,Healthcare,Medical Devices
+PROD_0356,Industrial,Equipment
+PROD_0357,Consumer Goods,Food
+PROD_0358,Healthcare,Supplies
+PROD_0359,Home,Appliances
+PROD_0360,Consumer Goods,Personal Care
+PROD_0361,Industrial,Tools
+PROD_0362,Healthcare,Supplies
+PROD_0363,Consumer Goods,Household
+PROD_0364,Home,Furniture
+PROD_0365,Healthcare,Medical Devices
+PROD_0366,Consumer Goods,Household
+PROD_0367,Consumer Goods,Personal Care
+PROD_0368,Consumer Goods,Food
+PROD_0369,Electronics,Accessories
+PROD_0370,Industrial,Equipment
+PROD_0371,Healthcare,Medical Devices
+PROD_0372,Healthcare,Medical Devices
+PROD_0373,Healthcare,Medical Devices
+PROD_0374,Consumer Goods,Household
+PROD_0375,Industrial,Tools
+PROD_0376,Home,Decor
+PROD_0377,Healthcare,Supplies
+PROD_0378,Industrial,Equipment
+PROD_0379,Industrial,Tools
+PROD_0380,Electronics,Devices
+PROD_0381,Healthcare,Medical Devices
+PROD_0382,Consumer Goods,Personal Care
+PROD_0383,Industrial,Equipment
+PROD_0384,Industrial,Equipment
+PROD_0385,Home,Decor
+PROD_0386,Electronics,Devices
+PROD_0387,Industrial,Tools
+PROD_0388,Industrial,Machinery
+PROD_0389,Consumer Goods,Personal Care
+PROD_0390,Consumer Goods,Food
+PROD_0391,Home,Appliances
+PROD_0392,Home,Appliances
+PROD_0393,Home,Appliances
+PROD_0394,Consumer Goods,Personal Care
+PROD_0395,Consumer Goods,Household
+PROD_0396,Electronics,Devices
+PROD_0397,Healthcare,Supplies
+PROD_0398,Healthcare,Diagnostics
+PROD_0399,Electronics,Components
+PROD_0400,Healthcare,Medical Devices
+PROD_0401,Consumer Goods,Personal Care
+PROD_0402,Healthcare,Medical Devices
+PROD_0403,Consumer Goods,Household
+PROD_0404,Electronics,Components
+PROD_0405,Home,Decor
+PROD_0406,Electronics,Accessories
+PROD_0407,Healthcare,Supplies
+PROD_0408,Consumer Goods,Personal Care
+PROD_0409,Healthcare,Diagnostics
+PROD_0410,Healthcare,Medical Devices
+PROD_0411,Home,Decor
+PROD_0412,Healthcare,Medical Devices
+PROD_0413,Home,Appliances
+PROD_0414,Consumer Goods,Household
+PROD_0415,Consumer Goods,Food
+PROD_0416,Home,Decor
+PROD_0417,Electronics,Devices
+PROD_0418,Consumer Goods,Household
+PROD_0419,Electronics,Accessories
+PROD_0420,Consumer Goods,Household
+PROD_0421,Consumer Goods,Personal Care
+PROD_0422,Industrial,Equipment
+PROD_0423,Healthcare,Supplies
+PROD_0424,Healthcare,Medical Devices
+PROD_0425,Electronics,Accessories
+PROD_0426,Healthcare,Diagnostics
+PROD_0427,Electronics,Accessories
+PROD_0428,Consumer Goods,Household
+PROD_0429,Industrial,Machinery
+PROD_0430,Industrial,Tools
+PROD_0431,Consumer Goods,Food
+PROD_0432,Home,Decor
+PROD_0433,Home,Appliances
+PROD_0434,Healthcare,Supplies
+PROD_0435,Electronics,Devices
+PROD_0436,Industrial,Equipment
+PROD_0437,Healthcare,Diagnostics
+PROD_0438,Consumer Goods,Personal Care
+PROD_0439,Industrial,Machinery
+PROD_0440,Electronics,Components
+PROD_0441,Electronics,Devices
+PROD_0442,Home,Furniture
+PROD_0443,Healthcare,Medical Devices
+PROD_0444,Consumer Goods,Household
+PROD_0445,Industrial,Machinery
+PROD_0446,Electronics,Accessories
+PROD_0447,Industrial,Tools
+PROD_0448,Consumer Goods,Household
+PROD_0449,Industrial,Machinery
+PROD_0450,Healthcare,Supplies
+PROD_0451,Home,Decor
+PROD_0452,Industrial,Tools
+PROD_0453,Home,Furniture
+PROD_0454,Consumer Goods,Household
+PROD_0455,Home,Appliances
+PROD_0456,Industrial,Equipment
+PROD_0457,Industrial,Tools
+PROD_0458,Electronics,Accessories
+PROD_0459,Industrial,Machinery
+PROD_0460,Home,Furniture
+PROD_0461,Electronics,Accessories
+PROD_0462,Industrial,Equipment
+PROD_0463,Industrial,Equipment
+PROD_0464,Consumer Goods,Personal Care
+PROD_0465,Electronics,Accessories
+PROD_0466,Consumer Goods,Personal Care
+PROD_0467,Consumer Goods,Food
+PROD_0468,Consumer Goods,Food
+PROD_0469,Healthcare,Medical Devices
+PROD_0470,Consumer Goods,Household
+PROD_0471,Home,Furniture
+PROD_0472,Industrial,Tools
+PROD_0473,Healthcare,Medical Devices
+PROD_0474,Consumer Goods,Household
+PROD_0475,Industrial,Equipment
+PROD_0476,Electronics,Accessories
+PROD_0477,Electronics,Devices
+PROD_0478,Industrial,Equipment
+PROD_0479,Home,Furniture
+PROD_0480,Industrial,Equipment
+PROD_0481,Industrial,Tools
+PROD_0482,Healthcare,Supplies
+PROD_0483,Electronics,Devices
+PROD_0484,Electronics,Accessories
+PROD_0485,Consumer Goods,Household
+PROD_0486,Industrial,Tools
+PROD_0487,Industrial,Equipment
+PROD_0488,Home,Decor
+PROD_0489,Electronics,Accessories
+PROD_0490,Home,Decor
+PROD_0491,Healthcare,Diagnostics
+PROD_0492,Consumer Goods,Personal Care
+PROD_0493,Home,Furniture
+PROD_0494,Electronics,Devices
+PROD_0495,Healthcare,Supplies
+PROD_0496,Industrial,Machinery
+PROD_0497,Healthcare,Diagnostics
+PROD_0498,Home,Appliances
+PROD_0499,Electronics,Accessories
+PROD_0500,Home,Appliances

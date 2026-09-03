@@ -1,0 +1,26 @@
+location_id,region,facility_type,capacity
+LOC_001,North,Distribution Center,608
+LOC_002,West,Distribution Center,775
+LOC_003,Central,Distribution Center,355
+LOC_004,East,Distribution Center,355
+LOC_005,East,Distribution Center,540
+LOC_006,West,Distribution Center,497
+LOC_007,Central,Distribution Center,754
+LOC_008,East,Fulfillment Center,607
+LOC_009,West,Fulfillment Center,828
+LOC_010,West,Distribution Center,439
+LOC_011,North,Fulfillment Center,359
+LOC_012,East,Distribution Center,436
+LOC_013,Central,Fulfillment Center,500
+LOC_014,East,Processing Hub,974
+LOC_015,East,Distribution Center,379
+LOC_016,East,Processing Hub,477
+LOC_017,West,Distribution Center,427
+LOC_018,South,Distribution Center,770
+LOC_019,South,Processing Hub,404
+LOC_020,North,Processing Hub,829
+LOC_021,East,Processing Hub,654
+LOC_022,South,Distribution Center,895
+LOC_023,North,Processing Hub,454
+LOC_024,West,Processing Hub,521
+LOC_025,East,Fulfillment Center,848
